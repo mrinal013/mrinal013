@@ -6,9 +6,8 @@ in both Front-end and Back-end development of <b>WordPress</b> and
 CSS Framework, JQuery, Vue.js, GIT, SVN, JIRA, BitBucket, Github, and
 Slack.
 
-I started programming around 2015 with the WordPress Theme
-Development course that Hasin Hayder conducted. As yet, I am working
-on WordPress.
+I started programming around 2015 with the WordPress. As yet, I am working
+on WordPress. I developed 100+ of WordPress Websites. I am always in learning.
 
 I share my working experiences on https://mrinalbd.com for everyone to enjoy.
 <!--
