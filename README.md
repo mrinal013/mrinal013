@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 I am a <b>Full Stack WordPress Developer</b> having professional experience
 in both Front-end and Back-end development of <b>WordPress</b> and
