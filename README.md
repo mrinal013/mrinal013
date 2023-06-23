@@ -7,8 +7,8 @@ I also have professional experience in using Bootstrap
 CSS Framework, JQuery, Vue.js, GIT, SVN, JIRA, BitBucket, Github, and
 Slack.
 
-I started programming around 2015 with the WordPress. As yet, I am working
-on WordPress. I developed 100+ of WordPress Websites. I am always in learning.
+I started programming around 2015 with WordPress. As yet, I am working
+on WordPress. I developed 100+ WordPress Websites and 20+ plugins for WordPress and WooCommerce. I am always learning.
 <!--
 **mrinal013/mrinal013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
