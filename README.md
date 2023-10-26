@@ -1,14 +1,11 @@
 ### Hello 👋
 
-I am a <b>Full Stack WordPress Developer</b> having professional experience
-in both Front-end and Back-end development of <b>WordPress</b> and
-<b>WooCommerce</b>. My WordPress.org profile is https://profiles.wordpress.org/mrinal013/
-I also have professional experience in using Bootstrap
-CSS Framework, JQuery, Vue.js, GIT, SVN, JIRA, BitBucket, Github, and
-Slack.
+I am <b>Mrinal</b>.
+I am working on <b>WordPress</b> and <b>WooCommerce</b> development.
+Currently, I have a fascination with <b>Gutenberg</b> and <b>FSE</b>.
+I love to make efficient and good-looking websites and stores for my client's business.
+My WordPress.org profile is https://profiles.wordpress.org/mrinal013/
 
-I started programming around 2015 with WordPress. As yet, I am working
-on WordPress. I developed 100+ WordPress Websites and 20+ plugins for WordPress and WooCommerce. I am always learning.
 <!--
 **mrinal013/mrinal013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
