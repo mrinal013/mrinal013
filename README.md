@@ -4,7 +4,6 @@ I am <b>Mrinal</b>.<br/><br/>
 I am working on <b>WordPress</b> and <b>WooCommerce</b> development.<br/>
 Currently, I have a fascination with <b>Gutenberg</b> and <b>FSE</b>.<br/><br/>
 I love to make efficient and good-looking websites and stores for my client's business.<br/><br/>
-My WordPress.org profile is https://profiles.wordpress.org/mrinal013/
 
 <!--
 **mrinal013/mrinal013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
